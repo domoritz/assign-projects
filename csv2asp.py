@@ -1,4 +1,8 @@
 #!/usr/bin/python
+'''
+This script can be used to generate the asp code for students.encoding.lp
+from a CSV file. Excel sheets can be exported as CSV.
+'''
 
 import sys
 import csv
