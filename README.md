@@ -6,6 +6,10 @@ Simple [Answer Set Programming](https://en.wikipedia.org/wiki/Answer_set_program
 
 _gringo_ and _clasp_ from [Potassco](http://potassco.sourceforge.net/).
 
+# Speed
+
+We used the program to calculate the assignment of 80 students to 13 projects. Each student has 5 choices.
+
 # How to use it
 
 ## Create a `projects.lp` and `students.lp` file
